@@ -6,4 +6,5 @@ Sorting algorithms implemented in C++.<br>
 	<li>Bubble Sort</li>
 	<li>Insertion Sort</li>
 	<li>Merge Sort</li>
+	<li>Bucket Sort</li>
 </ul>
