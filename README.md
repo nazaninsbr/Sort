@@ -7,4 +7,5 @@ Sorting algorithms implemented in C++.<br>
 	<li>Insertion Sort</li>
 	<li>Merge Sort</li>
 	<li>Bucket Sort</li>
+	<li>Quick Sort</li>
 </ul>
