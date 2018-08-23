@@ -5,4 +5,5 @@ Sorting algorithms implemented in C++.<br>
 	<li>Selection Sort</li>
 	<li>Bubble Sort</li>
 	<li>Insertion Sort</li>
+	<li>Merge Sort</li>
 </ul>
